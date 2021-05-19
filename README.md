@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Alex
+# Moin folks 👋, I'm Alex
 
 Employeed as senior developer mobile at Dataport AöR and also working as freelancer android developer
 
