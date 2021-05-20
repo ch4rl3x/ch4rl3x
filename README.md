@@ -14,7 +14,7 @@ Employeed as senior developer mobile at Dataport AöR and also working as freela
 ## Projects
 
 
-Name | Description | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MavenCentral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Name | Description | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MavenCentral&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ---|---|---
 **Jetpack Compose** | |
 [SpeedDialFloatingActionButton](https://github.com/ch4rl3x/SpeedDialFloatingActionButton) | SpeedDial / MultiSelection - FloatingActionButton | <a href="https://repo1.maven.org/maven2/de/charlex/compose/speeddial/"><img src="https://img.shields.io/maven-central/v/de.charlex.compose/speeddial" alt="Maven Central" /></a>
