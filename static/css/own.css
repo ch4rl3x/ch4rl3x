@@ -1,0 +1,122 @@
+
+:root {
+  --sidebar-color:rgba(255,255,255,.75);
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+  } 
+
+
+
+/* Sidebar links */
+
+.sidebar * {
+  color: var(--sidebar-color);
+}
+
+.sidebar a {
+  color: var(--sidebar-color);
+}
+
+.single-page-title {
+  font-size: 3rem;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+.sidebar img {
+    border-radius: 50%;
+  }
+
+.sidebar h2 {
+    margin-top: 0;
+  }
+
+  /* About section */
+.sidebar-about h1 {
+  color: var(--sidebar-color);
+  margin-top: 0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem;
+}
+
+.sidebar-about h2 {
+  margin-top: 0;
+  font-size: 1.5rem;
+}
+
+.sidebar-about h3 {
+  margin-top: 0;
+  font-size: 1rem;
+}
+
+
+.center {
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+.read-more-link {
+  margin-top: 1rem;
+}
+
+
+
+.badge {
+  background:rgb(63, 141, 204);
+  text-align: center;
+  border-radius: 30px 30px 30px 30px;
+  color:white;
+  padding:5px 10px;
+  font-size:20px;
+}
+
+
+#paging {
+  display:flex; 
+  flex-flow:row wrap;
+}
+
+.alignleft {
+  width:33.33333%;
+  text-align:left;
+  }
+
+.aligncenter {
+  width:33.33333%;
+  text-align:center;
+  }
+.alignright {
+  width:33.33333%;
+  text-align:right;
+  }
+
+.same-line {
+  height: 10px; /*childrens it's all absolute position, so must set height*/
+  position: relative;
+}
+
+.same-line div{
+  display: inline-block;
+  position: absolute;
+}
+
+.on-the-left{
+left:0px;
+}
+
+.on-the-center{
+  left: 0%;
+  right: 0%;
+  text-align: center;
+}
+
+.on-the-right{
+ right: 0px;
+}
